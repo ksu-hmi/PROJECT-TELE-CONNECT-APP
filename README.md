@@ -4,7 +4,7 @@ Your Health Choice in your Palms---The application takes users medical history a
 It will be an App that cane be used to track symptoms
 
 # Description
-This is a Project Code
+This is a project that will utilize python code to create an APP
 
 # Project Name
 IJ and Evie
